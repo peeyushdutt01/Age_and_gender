@@ -85,3 +85,6 @@ Age-and-gender-prediction/
 ├── style.py                # Contains custom CSS styles for Streamlit
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
+```
+
+Built with ❤️ by Peeyush Dutt. Feel free to reach out if you have any questions or suggestions!
